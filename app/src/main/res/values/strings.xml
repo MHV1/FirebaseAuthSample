@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="main_info_message">"Currently logged in as: %s with token: %s</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="auth_message">Login with your existing FirebaseAuth account or create a new one</string>
+    <string name="email_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="no_user_logged_in">No user logged in!</string>
+    <string name="username_hint">Username</string>
+    <string name="register">Register</string>
+    <string name="i_have_an_account">I have an account</string>
+</resources>
